@@ -1,4 +1,4 @@
-# Plant-health-monitor
+# Plant-watering-notifier
 ![WhatsApp Image 2022-08-08 at 3 43 47 AM](https://user-images.githubusercontent.com/98824642/185496806-d71f9264-4405-404b-b4be-42b0ee299ace.jpeg)
 **### Objective:**
 To get the data from the LM35 sensor over Bolt cloud and view the temperature throughout by writing a JavaScript program and also notify the user through SMS using Twilio  if the temperature rises too cross the threshold by writing a Python code.
